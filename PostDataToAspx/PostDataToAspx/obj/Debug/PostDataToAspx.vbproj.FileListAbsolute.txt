@@ -1,0 +1,9 @@
+C:\Projects\PostDataToAspx\PostDataToAspx\bin\PostDataToAspx.dll.config
+C:\Projects\PostDataToAspx\PostDataToAspx\bin\PostDataToAspx.dll
+C:\Projects\PostDataToAspx\PostDataToAspx\bin\PostDataToAspx.pdb
+C:\Projects\PostDataToAspx\PostDataToAspx\bin\PostDataToAspx.xml
+C:\Projects\PostDataToAspx\PostDataToAspx\obj\Debug\PostDataToAspx.Resources.resources
+C:\Projects\PostDataToAspx\PostDataToAspx\obj\Debug\PostDataToAspx.vbproj.GenerateResource.Cache
+C:\Projects\PostDataToAspx\PostDataToAspx\obj\Debug\PostDataToAspx.dll
+C:\Projects\PostDataToAspx\PostDataToAspx\obj\Debug\PostDataToAspx.xml
+C:\Projects\PostDataToAspx\PostDataToAspx\obj\Debug\PostDataToAspx.pdb
